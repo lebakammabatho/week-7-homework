@@ -9,6 +9,7 @@
     background: linear-gradient(to bottom, rgb(43,50,178)0%, rgb(20,136,204)100%);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    text-align: center;
    
     
 }
@@ -37,3 +38,11 @@
         
         .weather-details {
              margin-top: 20px; }
+
+    footer {
+        text-align: center;
+        
+    }
+    a {
+        color: white;
+    }
